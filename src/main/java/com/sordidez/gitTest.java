@@ -10,5 +10,6 @@ package com.sordidez;
 public class gitTest {
     public static void main(){
         System.out.println("git test1");
+        System.out.println("git test2");
     }
 }
